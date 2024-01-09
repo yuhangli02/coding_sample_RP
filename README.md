@@ -1,0 +1,1 @@
+*college_major_program_school_FE_testcodes_v1_robustness_fields_sample.do* was created during my RAship with Professor Juanna Joensen. The code provided produces a series of regression tables that analyze the sensitivity of wage on abilities regression when college and program fixed effects are added as controls. One of such regression tables are shown in 
